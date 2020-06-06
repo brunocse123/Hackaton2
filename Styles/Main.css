@@ -1,39 +1,8 @@
-.box-landing {
+.box-Principal {
   background-image: url(../images/BannerSection.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
-.landing {
-  width: 960px;
-  height: 535px;
-  margin: 0 auto;
-}
-.landing h1 {
-  text-align: center;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 64px;
-  line-height: 74px;
-  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
-  color: #fff;
-  padding-top: 35px;
-}
-.landing p {
-  width: 365px;
-  height: 117px;
-  padding-top: 16px;
-  box-sizing: border-box;
-  text-align: center;
-  font-style: normal;
-  font-weight: bold;
-  color: #fff;
-  font-size: 36px;
-  line-height: 42px;
-  background: rgba(114, 153, 254, 0.5);
-  border-radius: 10px;
-  position: absolute;
-  margin: 290px 0 0 40px;
 }
 
 .box-sobremi {
@@ -62,9 +31,11 @@
 
 .box-portafolio {
   background-color: #FFD233;
+  align-items: center;
+  align-content: center;
 }
 
-.skills h1 {
+.portafolio h1 {
   padding: 20px;
   color: white;
   text-align: center;
@@ -74,7 +45,7 @@
   background-color: #3F4E62;
 }
 
-.skills h1 {
+.clientes h1 {
   padding: 20px;
   color: white;
   text-align: center;
@@ -84,7 +55,7 @@
   background-color: #1687A0;
 }
 
-.skills h1 {
+.contacto h1 {
   padding: 20px;
   color: white;
   text-align: center;
